@@ -15,8 +15,8 @@ const SideBar = () => {
     {
       icon: <IoMdCall />,
       title: "Phone",
-      value: "+91 9876543210",
-      link: "tel:+919876543210",
+      value: "+91 9321696390",
+      link: "tel:+919321696390",
     },
     {
       icon: <SlCalender />,
